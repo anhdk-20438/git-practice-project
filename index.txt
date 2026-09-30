@@ -1,0 +1,4 @@
+Email: user@example.com
+Phone: 0987654321
+Address: Hanoi
+Note: Working hours 8 AM - 5 PM
